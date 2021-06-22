@@ -20,8 +20,8 @@ Kakao oven을 이용하여 작성
 1. 기능 명세 및 와이어프레임 작성
 2. expo를 이용한 RN 환경 구축 및 router와 react native element 설치
 3. 화면 개발 + 22 오후에 추가 작성
- 3-1. Home Screen 개발
- ![메인Page](https://user-images.githubusercontent.com/39265615/122949314-84c5db80-d3b6-11eb-9c27-f9dc6712cb6c.PNG)
+  3-1. Home Screen 개발
+ [메인Page](https://user-images.githubusercontent.com/39265615/122949314-84c5db80-d3b6-11eb-9c27-f9dc6712cb6c.PNG)
 
 
 2021-06-23
