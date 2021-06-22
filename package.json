@@ -14,6 +14,8 @@
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
     "react-native-elements": "^3.4.2",
+    "react-native-svg": "^12.1.1",
+    "react-native-svg-charts": "^5.4.0",
     "react-native-web": "~0.13.12",
     "react-router-dom": "^5.2.0"
   },
