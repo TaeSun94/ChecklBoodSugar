@@ -26,6 +26,12 @@ Kakao oven을 이용하여 작성
 
 2021-06-23
 1. 데이터 스키마 작성
-2. firebase 연동
+2. firebase 연동(실패)
 3. 화면 개발 - insert Screen
+
+
+2021-06-24
+1. 혈당 및 혈압 최저 최대 수치 기반 Graph Y축 데이터 작성
+2. firebase 연동
+3. 화면 리팩토링
 
